@@ -14,4 +14,6 @@ However since there are many eigenvectors, choosing the correct vector is essent
 #TODO:
 1) Try on different time scales
 2) Make the portfolio less volatile by using trailing stop losses or some other methods of finding the best unidirectional eigenportfolio 
+3) Test for no long only portfolio condition
+
 
